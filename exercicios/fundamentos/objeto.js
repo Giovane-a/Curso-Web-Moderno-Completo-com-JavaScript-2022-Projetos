@@ -12,7 +12,7 @@ console.log(prod1)
 const prod2 = {
     nome: 'Camisa polo',
 
-    preco: 79.90, 
+    preco: 79.90,
     obj:{
         categoria: 1,
         obj:{ tipo :1
