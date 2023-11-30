@@ -11,8 +11,11 @@ let opcao = 0
 
 
 while (opcao != 1) {
-    opcao = getInteiroAlenatorioEntre(-1, 1000000)
+    opcao = getInteiroAlenatorioEntre(-1, 10)
 
     console.log(`Opção escolhida foi ${opcao}.`)
 
 }
+
+
+    console.log('Ate a próxima!')
