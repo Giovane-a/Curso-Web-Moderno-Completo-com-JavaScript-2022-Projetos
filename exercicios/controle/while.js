@@ -18,4 +18,4 @@ while (opcao != 1) {
 }
 
 
-    console.log('Ate a próxima!')
+    console.log('Ate a próxima! ')
